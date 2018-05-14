@@ -1,0 +1,1 @@
+ALTER TABLE `crm_orders_item` ADD `product_url` VARCHAR(255) NULL AFTER `product_image`;

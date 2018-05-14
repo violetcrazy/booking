@@ -1,0 +1,1 @@
+CREATE TABLE `nuhoangs_wp`.`crm_order_temp` ( `id` INT NOT NULL AUTO_INCREMENT , `content` TEXT NOT NULL , PRIMARY KEY (`id`)) ENGINE = MyISAM;

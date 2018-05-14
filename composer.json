@@ -1,0 +1,12 @@
+{
+    "name": "minhtran/public_html",
+    "authors": [
+        {
+            "name": "violetcrazy",
+            "email": "researchwordpress@gmail.com"
+        }
+    ],
+    "require": {
+    	"swiftmailer/swiftmailer": "@stable"
+    }
+}
